@@ -66,5 +66,5 @@
 
 <h3 align="left">💼 Портфолио</h3>
 <ul>
-	<li>📲 <a href="https://www.notion.so/den4day/SPRING-2023-007c7c8560c94350aa8b92592bef3323" target="_blank">Tele2</a></li>
+	<li>📲 <a href="https://den4day.github.io/tele2/" target="_blank">Tele2</a></li>
 </ul>
