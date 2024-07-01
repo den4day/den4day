@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="468" height="351" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" />
+  <img width="312" height="234" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" />
 </div>
 
 ###
@@ -66,5 +66,5 @@
 
 <h3 align="left">💼 Портфолио</h3>
 <ul>
-	<li>📲 <a href="https://den4day.github.io/tele2/" target="_blank">Tele2</a></li>
+	<li>📱 <a href="https://den4day.github.io/tele2/" target="_blank">Tele2</a></li>
 </ul>
