@@ -39,9 +39,9 @@
 
 <h3 align="left">🎓 Сертификаты</h3>
 <ul>
-	<li>🏆 <a href="https://www.notion.so/den4day/SPRING-2023-007c7c8560c94350aa8b92592bef3323">Хакатон SPRING 2023</a></li>
-	<li>💻 <a href="https://www.notion.so/den4day/WEB-400f303170c3494aa0f6be886d005341">WEB-программирование<a></li>
-	<li>👾 <a href="https://www.codewars.com/users/Den%20Day">Codewars</a></li>
+	<li>🏆 <a href="https://www.notion.so/den4day/SPRING-2023-007c7c8560c94350aa8b92592bef3323" target="_blank">Хакатон SPRING 2023</a></li>
+	<li>💻 <a href="https://www.notion.so/den4day/WEB-400f303170c3494aa0f6be886d005341" target="_blank">WEB-программирование<a></li>
+	<li>👾 <a href="https://www.codewars.com/users/Den%20Day" target="_blank">Codewars</a></li>
 </ul>
 
 ###
@@ -66,5 +66,5 @@
 
 <h3 align="left">💼 Портфолио</h3>
 <ul>
-	<li><a href="https://www.notion.so/den4day/SPRING-2023-007c7c8560c94350aa8b92592bef3323">📲 Tele2</a></li>
+	<li>📲 <a href="https://www.notion.so/den4day/SPRING-2023-007c7c8560c94350aa8b92592bef3323" target="_blank">Tele2</a></li>
 </ul>
