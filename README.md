@@ -71,4 +71,10 @@
 <h3 align="left">💼 Портфолио</h3>
 <ul>
 	<li>📱 <a href="https://den4day.github.io/tele2/" target="_blank">Tele2</a></li>
+	<li>📊 <a href="https://dashboard-cyan-sigma-35.vercel.app" target="_blank">Dashboard</a></li>
+	<li>🎒 <a href="https://den4day.github.io/createx/" target="_blank">Createx</a></li>
+	<li>📚 <a href="https://coaching-eight.vercel.app" target="_blank">Happy Coaching</a></li>
+	<li>🤝 <a href="https://den4day.github.io/helpingHand/" target="_blank">Рука помощи</a></li>
+	<li>👷🏼‍♂️ <a href="https://client-side-five.vercel.app" target="_blank">Магазин спецодежды</a></li>
+	<li>🎨 <a href="https://client-henna-five.vercel.app" target="_blank">NFT Marketplace</a></li>
 </ul>
